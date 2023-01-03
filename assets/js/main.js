@@ -71,4 +71,6 @@ console.log(married);
 // Zu guter Letzt wollen wir alle Variablen kombiniert in der Konsole ausgeben. Am Ende soll es so aussehen: Anton ist 28 Jahre alt, von Beruf Trainer und ist verheiratet: true
 // Hinweis: console.log(name + “ ist “ + age + “ Jahre alt “....)
 
+console.log(firstName + " ist " + age + " Jahre alt, von Beruf " + job +  " und ist verheiratet: "  + married);
+
 
